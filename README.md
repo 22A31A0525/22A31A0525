@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Teja Venkata Vinay Adapa
 
-<p align="left"> <img src="https://github.com/22a31a0525.png?size=200" alt="22a31a0525" /> 
+
 <img src="https://komarev.com/ghpvc/?username=22a31a0525&label=Profile%20views&color=0e75b6&style=flat" alt="22a31a0525" /></p>
 
 <!--
