@@ -80,7 +80,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=22a31a0525&" alt="22a31a0525" /></p>
+
 
 > _“Code isn’t just about solving problems—it's about building the future, one project at a time.”_
 
