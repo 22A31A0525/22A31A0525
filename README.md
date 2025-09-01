@@ -22,10 +22,7 @@
 - 💡 I love **building scalable web apps**, designing clean APIs & collaborating in Agile teams
 - 👨💻 Hands-on with **Java**, **Spring Boot**, **React**, **Python**, **SQL/PostgreSQL**
 - 🥇 [HackerRank Certified](https://www.hackerrank.com/profile/22a31a0_525) in React, Java, Python
-- 📊 **Quantifiable Achievements:**  
-  - Improved backend query speed by **45%** in campus project  
-  - Achieved **99% accuracy** in OCR data pipeline  
-  - Delivered team sprints **20% faster** with clear task tracking
+
 - 🛠️ Interested in microservices, API design, and cloud services (AWS, Azure basics)
 - 💼 [Resume/CV](https://drive.google.com/file/d/1hWbPC77wul8J5WIebVlOXDvOdsXG6NGP/view?usp=sharing)
 
@@ -66,10 +63,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="30"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/>
 
-## 🏅 Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/22a31a0525/)
-- [HackerRank](https://www.hackerrank.com/profile/22a31a0_525)
 
 ## 📈 GitHub Stats
 
