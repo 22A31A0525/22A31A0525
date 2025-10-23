@@ -27,25 +27,7 @@
 - 💼 [Resume/CV](https://drive.google.com/file/d/1hWbPC77wul8J5WIebVlOXDvOdsXG6NGP/view?usp=sharing)
 
 
-## 🏆 Key Projects
 
-### CareerNexus (Full Stack Campus Recruitment System)
-- **Java, Spring Boot, React, PostgreSQL**
-- Built dashboards for students, placement officers & recruiters
-- Boosted query speed by 45%, achieved 99% profile data accuracy
-- Integrated microservice-based AI plagiarism checker  
-- [Demo & Code](https://github.com/22a31a0525/CareerNexus) 
-
-### DevBridge IDE (Real-Time Collaborative Coding)
-- **React, WebSockets, Node.js**
-- Enabled real-time messaging & live code editing
-- Improved code sync consistency by 90%
-- Enhanced session security & role-based access
-
-### OCR Cheque Processing (Infosys Internship)
-- **Python, Tesseract OCR, PostgreSQL**
-- Built cheque info extraction pipeline
-- Reached 99%+ data accuracy with automated validation
 
 ## 🧰 Tech Stack & Tools
 
